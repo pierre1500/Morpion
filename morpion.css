@@ -1,0 +1,45 @@
+body
+{
+    background-color: rgb(39, 35, 35);
+}
+td
+{
+    border: solid white 1px;
+    text-align: center;
+    width: 125px;
+    height: 125px;
+    font-size: 100px;
+    color: white;
+}
+table
+{
+    margin: auto;
+}
+h1
+{
+    text-align: center;
+    color: white;
+}
+.rejouer
+{
+    margin-top: 30px;
+    text-align: center;
+}
+#joueur
+{
+    text-align: center;
+}
+#victoire
+{
+    text-align: center;
+}
+#rejouer
+{
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px;
+}
+#resultatNul
+{
+    text-align: center;
+}
